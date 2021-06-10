@@ -87,7 +87,7 @@ docker rm -f kmfaka && docker rmi -f baiyuetribe/kamifaka:latest
 
 ## Github社区讨论
 
-项目已开通专属社区,主要集中开发者计划、BUG反馈、新功能建议等，欢迎积极参与讨论，[点此进入](https://github.com/Baiyuetribe/kamiFaka/discussions) 
+项目已开通专属社区,主要 集中开发者计划、BUG反馈、新功能建议等，欢迎积极参与讨论，[点此进入](https://github.com/Baiyuetribe/kamiFaka/discussions) 
 
 ### 项目依赖
 - 前端UI：Stisla --> https://github.com/stisla/stisla
