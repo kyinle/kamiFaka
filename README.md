@@ -105,4 +105,4 @@ docker rm -f kmfaka && docker rmi -f baiyuetribe/kamifaka:latest
 
 ## License
 
-本程序使用MIT协议，您可以免费使用，复制或修改软件，但是请保留底部作者信息和License许可声明。
+本程序使用MIT协议，您可以免费使用，复制或修改软件，但是请保留底部作者信息和License许可声明。.
